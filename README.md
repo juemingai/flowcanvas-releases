@@ -3,3 +3,7 @@
 ## 使用文档
 
 飞书文档：https://gcne9eukx3sd.feishu.cn/wiki/EXQywaYM4iD7EZkGfpkcoHXgn6c?from=from_copylink
+
+## 客户端下载
+
+https://github.com/juemingai/flowcanvas-releases/releases
